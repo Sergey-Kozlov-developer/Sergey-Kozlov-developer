@@ -6,4 +6,4 @@ Sergey-Kozlov-developer/Sergey-Kozlov-developer is a ✨ special ✨ repository 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
