@@ -4,13 +4,13 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://vk.com/vmf.serge.kozlov">
+    <a href="https://vk.com/vmf.serge.kozlov" target='_blank'>
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Vkontakte"/>
   </a>
   <!-- <a href="twitter-url">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a> -->
-  <a href="https://t.me/vmfsergeikozlov">
+  <a href="https://t.me/vmfsergeikozlov" target='_blank'>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
