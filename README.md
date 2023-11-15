@@ -18,7 +18,7 @@
 ### Обо мне
 
 - 🌱 Сейчас я изучаю **JavaScript, React**
-- 🤘 Я написал приложение для 1000 пользователей [IOS](https://apps.apple.com/ru/app/misbox/) и [Android](https://play.google.com/store/apps/details?id=ru.tiomed.misbox&pli=1)
+- 🤘 Я написал приложение для 1000 пользователей [IOS](https://apps.apple.com/ru/app/misbox/id1569062876) и [Android](https://play.google.com/store/apps/details?id=ru.tiomed.misbox&pli=1)
 - 📫 Со мной можно связаться через [email](mailto:vmf.serge.kozlov@gmail.com)
 <!-- - 🌍 I speak English -->
 
