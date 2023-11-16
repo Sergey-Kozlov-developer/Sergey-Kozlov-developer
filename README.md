@@ -47,6 +47,6 @@
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=default" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sergey-Kozlov-developer&theme=default&utcOffset=8" alt=""/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=default" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=default" alt=""/>
 </div>
 ---
