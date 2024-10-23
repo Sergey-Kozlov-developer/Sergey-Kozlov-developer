@@ -23,7 +23,7 @@
 - 🌱 Сейчас я изучаю **JavaScript, React JS**
 - 🤘 Я написал приложение для 1000 пользователей [IOS](https://apps.apple.com/ru/app/misbox/id1569062876) и [Android](https://play.google.com/store/apps/details?id=ru.tiomed.misbox&pli=1)
 - 📫 Со мной можно связаться через [email](mailto:vmf.serge.kozlov@gmail.com)
-- 🌍 Мой сайт [портфолио](https://sergey-kozlov-developer.github.io/react-portfolio)
+- 🌍 Мой сайт [портфолио](https://sergeikozlov.dev)
 
 ---
 
