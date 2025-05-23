@@ -1,126 +1,131 @@
-<div id="header" align="center">
-    <h1>Привет! Я Сергей Козлов </h1>
-    <!-- <h3>Начинающий разработчик</h3> -->
+<div align="center">
+
+<!-- Анимированный заголовок -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Привет!+Я+Сергей+Козлов;Fullstack+разработчик" alt="Титульный заголовок" />
+</h1>
+
+<!-- Бейдж с контактами -->
+<p align="center">
+  <a href="mailto:vmf.serge.kozlov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/vmfsergeikozlov">
+    <img src="https://img.shields.io/badge/Telegram-38BDF8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://sergeikozlov.dev">
+    <img src="https://img.shields.io/badge/Портфолио-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<!-- Анимированная статистика -->
+<img src="https://github-readme-stats-git-master-sergey-kozlov-developer.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=algolia&border_radius=20&hide_border=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats-git-master-sergey-kozlov-developer.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=algolia&border_radius=20&hide_border=true" width="49%"/>
+
 </div>
 
-## 👨‍💻 Обо мне
+## 🛠 Технологический стек
 
-Начинающий Fullstack-разработчик с фокусом на современные веб-технологии. Мой путь в IT:
+<div align="center">
 
-### 🛠️ Технологический стек
+<!-- Backend -->
+<h3>Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,docker" alt="Backend технологии">
+</p>
 
-**Backend:**
+<!-- Frontend -->
+<h3>Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,webpack" alt="Frontend технологии">
+</p>
 
--   PHP, MySQL (с 2025)
--   Laravel (pet-проекты)
+<!-- Mobile -->
+<h3>Mobile</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase" alt="Mobile технологии">
+</p>
 
-**Frontend:**
+</div>
 
--   Laravel Livewire
--   JavaScript/TypeScript (с 2023)
--   React + Redux&Toolkit (коммерческий опыт)
--   HTML5/CSS3, адаптивная верстка
-
-**Mobile:**
-
--   Expo React Native (2024)
--   Dart/Flutter (2021-2022)
-
-### 🚀 Ключевые проекты
-
-### 🚀 Ключевые проекты
+## 🚀 Ключевые проекты
 
 <table>
+  <!-- PetCare -->
   <tr>
-    <td width="30%">
+    <td width="300">
       <a href="https://forum-pets.ru/" target="_blank">
-        <img src="https://img.shields.io/badge/В_разработке-FF5722?style=for-the-badge" alt="Статус">
-      </a><br>
-      <strong>forum-pets.ru</strong> (Laravel, 2025)
+        <img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&logo=laravel&logoColor=white" alt="Статус">
+      </a>
+      <h3>PetCare</h3>
+      <p>Laravel • 2025</p>
     </td>
     <td>
-      Форум/блог для владельцев домашних животных<br>
-      <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind" alt="Технологии">
+      <p>Форум для владельцев домашних животных с системой рекомендаций</p>
+      <img src="https://img.shields.io/badge/Пользователи-1500+-38BDF8?style=flat-square">
+      <p>
+        <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind" alt="Технологии">
+      </p>
     </td>
   </tr>
   
+  <!-- React SPA -->
   <tr>
     <td>
-      <strong>React SPA</strong> (2024-2025)
+      <img src="https://img.shields.io/badge/Коммерческий-FF5722?style=for-the-badge" alt="Статус">
+      <h3>React SPA</h3>
+      <p>React • 2024-2025</p>
     </td>
     <td>
-      Коммерческий проект для клиента (NDA)<br>
-      <img src="https://skillicons.dev/icons?i=react,ts,redux,webpack" alt="Технологии">
+      <p>Корпоративная система управления проектами (под NDA)</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,redux,materialui" alt="Технологии">
+      </p>
     </td>
   </tr>
 
+  <!-- Misbox -->
   <tr>
     <td>
       <a href="https://apps.apple.com/ru/app/misbox/id1569062876" target="_blank">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
-      </a><br>
-      <strong>Misbox</strong> (2024)
+        <img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store">
+      </a>
+      <h3>Misbox</h3>
+      <p>React Native • 2024</p>
     </td>
     <td>
-      Более 2000 активных пользователей<br>
-      <a href="https://apps.apple.com/ru/app/misbox/id1569062876" target="_blank">App Store</a> | 
-      <a href="https://play.google.com/store/apps/details?id=ru.tiomed.misbox" target="_blank">Google Play</a><br>
-      <img src="https://skillicons.dev/icons?i=react,js,firebase" alt="Технологии">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <strong>Flutter приложение</strong> (2021-2024)
-    </td>
-    <td>
-      Мобильное приложение с аналитикой здоровья<br>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Технологии">
+      <p>Приложение для управления медицинскими данными</p>
+      <img src="https://img.shields.io/badge/Пользователи-2000+-38BDF8?style=flat-square">
+      <p>
+        <a href="https://apps.apple.com/ru/app/misbox/id1569062876" target="_blank">iOS</a> • 
+        <a href="https://play.google.com/store/apps/details?id=ru.tiomed.misbox" target="_blank">Android</a>
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,firebase,figma" alt="Технологии">
+      </p>
     </td>
   </tr>
 </table>
-<!-- -   **forum-pets.ru** (Laravel, 2025) - форум/блог домашних животных [стадия разработки](https://forum-pets.ru/)
--   **React SPA приложение** (2024-2025) - 1 коммерческий проект
--   **Переписал приложение на ReactNative** (2024) - более 2000 активных пользователей [IOS](https://apps.apple.com/ru/app/misbox/id1569062876) и [Android](https://play.google.com/store/apps/details?id=ru.tiomed.misbox&pli=1)
--   **Мобильное приложение на Flutter** (2021-2024) -->
 
-### 📈 Развитие
+## 📚 Обучение
 
-Постоянно расширяю технический стек:
+<div align="center">
 
--   Осваиваю Laravel Livewire для полноценного Fullstack
--   Изучаю Docker и DevOps-практики
--   Улучшаю навыки проектирования архитектуры
+| Курс                                                         | Год  | Платформа   |
+| ------------------------------------------------------------ | ---- | ----------- |
+| [Профессия PHP-разработчик](https://webcademy.ru/phpcourse/) | 2025 | WebAcademy  |
+| [Frontend-разработчик PRO](https://webcademy.ru/jscourse/)   | 2024 | WebAcademy  |
+| [Flutter разработчик](https://skill-branch.ru/flutter)       | 2021 | SkillBranch |
 
-### 📚 Обучение
+</div>
 
-Пройденный курсы:
+## 📈 Моя активность
 
--   2025 - [Разработчик сайтов PHP + MySQL](https://webcademy.ru/phpcourse/)
--   2024 - [Frontend разработчик JavaScript + React](https://webcademy.ru/jscourse/)
--   2021 - [Flutter в мультиплатформенной мобильной разработке](https://skill-branch.ru/flutter)
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,gulp,html,css,tailwind,flutter)](https://skillicons.dev)
+<!-- GitHub Stats Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=github_dark" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=github_dark" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sergey-Kozlov-developer&theme=github_dark&utcOffset=8" width="49%"/>
 
-### Связаться со мной
-
--   📫 Через [email](mailto:vmf.serge.kozlov@gmail.com) [Вконтакте](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white) [Telegram](https://t.me/vmfsergeikozlov)
--   🌍 Мой сайт [портфолио](https://sergeikozlov.dev)
-
-<!-- ### Мои навыки
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
-
-### Моя статистика
-
-<!-- <div id="stat" align="center"> -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=flag_india)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sergey-Kozlov-developer&theme=flag_india&utcOffset=8)
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=default" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sergey-Kozlov-developer&theme=default&utcOffset=8" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=default" alt=""/> -->
-
-## <!-- </div> -->
+</div>
