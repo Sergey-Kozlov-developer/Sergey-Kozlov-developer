@@ -136,7 +136,19 @@
 
 ## 📈 GitHub активность
 
-<!-- 3D график активности -->
+<!-- <div id="stat" align="center"> -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=flag_india)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sergey-Kozlov-developer&theme=flag_india&utcOffset=8)
+
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=default" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sergey-Kozlov-developer&theme=default&utcOffset=8" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=default" alt=""/> -->
+
+## <!-- </div> -->
+
+<!-- 3D график активности
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=github-dark&area=true&hide_border=true&custom_title=Моя+активность+на+GitHub" alt="График активности" width="100%" />
-</div>
+</div> -->
