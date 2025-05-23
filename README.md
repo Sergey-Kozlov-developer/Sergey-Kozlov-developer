@@ -1,6 +1,6 @@
 <!-- Анимированный заголовок с 3D эффектом -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=38BDF8&background=FFFFFF00&center=true&vCenter=true&width=600&lines=✨+Привет,+я+Сергей+Козлов;💻+Fullstack+разработчик;🚀+Laravel+%7C+React+%7C+Flutter" alt="Анимированный заголовок" />
+  ![Анимированный заголовок](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=38BDF8&background=FFFFFF00&center=true&vCenter=true&width=600&lines=✨+Привет,+я+Сергей+Козлов;💻+Fullstack+разработчик;🚀+Laravel+%7C+React+%7C+Flutter)
 </div>
 
 <!-- 3D баннер с технологиями -->
