@@ -1,60 +1,89 @@
-<div id="header" align="center">
-    <h1>Привет! Я Сергей Козлов </h1>
-    <!-- <h3>Начинающий разработчик</h3> -->
+<div align="center">
+  <h1>👋 Привет, я Сергей Козлов</h1>
+  <h3>Fullstack-разработчик (Laravel/React/Flutter)</h3>
 </div>
 
-## 👨‍💻 Обо мне
+---
 
-Начинающий Fullstack-разработчик с фокусом на современные веб-технологии. Мой путь в IT:
+## 🛠 Технологический стек
 
-### 🛠️ Технологический стек
+### **Backend**
 
-**Backend:**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
--   PHP, MySQL (с 2025)
--   Laravel (pet-проекты)
+### **Frontend**
 
-**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+</p>
 
--   Laravel Livewire
--   JavaScript/TypeScript (с 2023)
--   React + Redux&Toolkit (коммерческий опыт)
--   HTML5/CSS3, адаптивная верстка
+### **Mobile**
 
-**Mobile:**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native">
+</p>
 
--   Expo React Native (2024)
--   Dart/Flutter (2021-2022)
+---
 
-### 🚀 Ключевые проекты
+## 🚀 Мои проекты
 
--   **forum-pets.ru** (Laravel, 2025) - форум/блог домашних животных [стадия разработки](https://forum-pets.ru/)
--   **React SPA приложение** (2024-2025) - 1 коммерческий проект
--   **Переписал приложение на ReactNative** (2024) - более 2000 активных пользователей [IOS](https://apps.apple.com/ru/app/misbox/id1569062876) и [Android](https://play.google.com/store/apps/details?id=ru.tiomed.misbox&pli=1)
--   **Мобильное приложение на Flutter** (2021-2024)
+### **PetCare Forum** [![Статус](https://img.shields.io/badge/В_разработке-FF5722?style=flat-square)](https://forum-pets.ru/)
 
-### 📈 Развитие
+-   **Стек**: Laravel, Livewire, MySQL
+-   Форум для владельцев домашних животных
+-   [Открыть проект](https://forum-pets.ru/)
 
-Постоянно расширяю технический стек:
+### **Интернет магазин по продаже велосипедов** [![Статус](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)]
 
--   Осваиваю Laravel Livewire для полноценного Fullstack
--   Изучаю Docker и DevOps-практики
--   Улучшаю навыки проектирования архитектуры
+-   **Стек**: React, TypeScript, Redux Toolkit
 
-### 📚 Обучение
+### **Misbox (React Native)** [![Пользователи](https://img.shields.io/badge/2000+-пользователей-38BDF8?style=flat-square)]
 
-Пройденный курсы:
+-   Каталог зубных имплантатов с функцией отправки заказа iOS/Android
+-   [App Store](https://apps.apple.com/ru/app/misbox/id1569062876) | [Google Play](https://play.google.com/store/apps/details?id=ru.tiomed.misbox)
 
--   2025 - [Разработчик сайтов PHP + MySQL](https://webcademy.ru/phpcourse/)
--   2024 - [Frontend разработчик JavaScript + React](https://webcademy.ru/jscourse/)
--   2021 - [Flutter в мультиплатформенной мобильной разработке](https://skill-branch.ru/flutter)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,gulp,html,css,tailwind,flutter)](https://skillicons.dev)
+## 📚 Образование
 
-### Связаться со мной
+| Курс                                                  | Год  | Платформа   |
+| ----------------------------------------------------- | ---- | ----------- |
+| [PHP + MySQL](https://webcademy.ru/phpcourse/)        | 2025 | WebCademy   |
+| [JavaScript + React](https://webcademy.ru/jscourse/)  | 2024 | WebCademy   |
+| [Flutter разработка](https://skill-branch.ru/flutter) | 2021 | SkillBranch |
 
--   📫 Через [email](mailto:vmf.serge.kozlov@gmail.com) [Вконтакте](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white) [Telegram](https://t.me/vmfsergeikozlov)
--   🌍 Мой сайт [портфолио](https://sergeikozlov.dev)
+---
+
+## 📈 Статистика GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=default&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=default&hide_border=true"/>
+</div>
+
+---
+
+## 📫 Контакты
+
+<p align="center">
+  <a href="mailto:vmf.serge.kozlov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://t.me/vmfsergeikozlov">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+  <a href="https://sergeikozlov.dev">
+    <img src="https://img.shields.io/badge/Портфолио-FF4088?style=for-the-badge&logo=react" alt="Portfolio">
+  </a>
+</p>
 
 <!-- ### Мои навыки
 
