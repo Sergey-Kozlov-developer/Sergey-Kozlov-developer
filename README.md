@@ -1,142 +1,66 @@
-<!-- Анимированный заголовок с 3D эффектом -->
-<!-- <div align="center"> -->
-
-![Анимированный заголовок](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=38BDF8&background=FFFFFF00&center=true&vCenter=true&width=600&lines=✨+Привет,+я+Сергей+Козлов;💻+Fullstack+разработчик;🚀+Laravel+%7C+React+%7C+Flutter)
-
-<!-- </div> -->
-
-<!-- 3D баннер с технологиями -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,flutter,mysql,tailwind,docker&perline=8" alt="Технологии" />
+<div id="header" align="center">
+    <h1>Привет! Я Сергей Козлов </h1>
+    <!-- <h3>Начинающий разработчик</h3> -->
 </div>
 
-<!-- Анимированные карточки контактов -->
-<div align="center" style="margin: 20px 0;">
-  <a href="mailto:vmf.serge.kozlov@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
-  </a>
-  <a href="https://t.me/vmfsergeikozlov" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-38BDF8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://sergeikozlov.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Портфолио-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Sergey-Kozlov-developer" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+## 👨‍💻 Обо мне
 
-<!-- Анимированная статистика GitHub -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=333" alt="Статистика" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&langs_count=8&theme=algolia&border_radius=15&hide_border=true&bg_color=333" alt="Языки" />
-</div>
+Начинающий Fullstack-разработчик с фокусом на современные веб-технологии. Мой путь в IT:
 
-## 🛠️ Технологический стек
+### 🛠️ Технологический стек
 
-<!-- 3D аккордеон с технологиями -->
-<details>
-  <summary><b>🔍 Посмотреть весь стек</b></summary>
-  <br/>
-  
-  **Backend:**
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </p>
+**Backend:**
+
+-   PHP, MySQL (с 2025)
+-   Laravel (pet-проекты)
 
 **Frontend:**
 
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  </p>
+-   Laravel Livewire
+-   JavaScript/TypeScript (с 2023)
+-   React + Redux&Toolkit (коммерческий опыт)
+-   HTML5/CSS3, адаптивная верстка
 
 **Mobile:**
 
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  </p>
-</details>
+-   Expo React Native (2024)
+-   Dart/Flutter (2021-2022)
 
-## 🚀 Ключевые проекты
+### 🚀 Ключевые проекты
 
-<!-- 3D карточки проектов -->
-<div class="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+-   **forum-pets.ru** (Laravel, 2025) - форум/блог домашних животных [стадия разработки](https://forum-pets.ru/)
+-   **React SPA приложение** (2024-2025) - 1 коммерческий проект
+-   **Переписал приложение на ReactNative** (2024) - более 2000 активных пользователей [IOS](https://apps.apple.com/ru/app/misbox/id1569062876) и [Android](https://play.google.com/store/apps/details?id=ru.tiomed.misbox&pli=1)
+-   **Мобильное приложение на Flutter** (2021-2024)
 
-<!-- PetCare -->
-<div style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #38BDF822 0%, #ffffff00 100%); backdrop-filter: blur(5px); border: 1px solid #38BDF844;">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="margin: 0; color: #38BDF8;">PetCare</h3>
-    <span style="background-color: #10B981; padding: 3px 10px; border-radius: 20px; font-size: 12px; color: white;">LIVE</span>
-  </div>
-  <p style="color: #94a3b8; font-size: 14px;">Laravel • 2025</p>
-  <p>Форум для владельцев домашних животных</p>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  </div>
-  <a href="https://forum-pets.ru/" target="_blank" style="display: inline-block; margin-top: 15px; color: #38BDF8; text-decoration: none;">Посмотреть проект →</a>
-</div>
+### 📈 Развитие
 
-<!-- React SPA -->
-<div style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #38BDF822 0%, #ffffff00 100%); backdrop-filter: blur(5px); border: 1px solid #38BDF844;">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="margin: 0; color: #38BDF8;">React SPA</h3>
-    <span style="background-color: #FF5722; padding: 3px 10px; border-radius: 20px; font-size: 12px; color: white;">NDA</span>
-  </div>
-  <p style="color: #94a3b8; font-size: 14px;">React • 2024-2025</p>
-  <p>Корпоративная система управления</p>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-  </div>
-</div>
+Постоянно расширяю технический стек:
 
-<!-- Misbox -->
-<div style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #38BDF822 0%, #ffffff00 100%); backdrop-filter: blur(5px); border: 1px solid #38BDF844;">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="margin: 0; color: #38BDF8;">Misbox</h3>
-    <span style="background-color: #38BDF8; padding: 3px 10px; border-radius: 20px; font-size: 12px; color: white;">2000+ users</span>
-  </div>
-  <p style="color: #94a3b8; font-size: 14px;">React Native • 2024</p>
-  <p>Приложение для управления медицинскими данными</p>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  </div>
-  <div style="display: flex; gap: 10px; margin-top: 10px;">
-    <a href="https://apps.apple.com/ru/app/misbox/id1569062876" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="height: 28px;" />
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=ru.tiomed.misbox" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" style="height: 28px;" />
-    </a>
-  </div>
-</div>
+-   Осваиваю Laravel Livewire для полноценного Fullstack
+-   Изучаю Docker и DevOps-практики
+-   Улучшаю навыки проектирования архитектуры
 
-</div>
+### 📚 Обучение
 
-## 📚 Обучение и курсы
+Пройденный курсы:
 
-<!-- Стилизованная таблица курсов -->
-<div style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #38BDF822 0%, #ffffff00 100%); backdrop-filter: blur(5px); border: 1px solid #38BDF844; margin-bottom: 30px;">
+-   2025 - [Разработчик сайтов PHP + MySQL](https://webcademy.ru/phpcourse/)
+-   2024 - [Frontend разработчик JavaScript + React](https://webcademy.ru/jscourse/)
+-   2021 - [Flutter в мультиплатформенной мобильной разработке](https://skill-branch.ru/flutter)
 
-| Курс                                                             | Год  | Платформа   | Сертификат                 |
-| ---------------------------------------------------------------- | ---- | ----------- | -------------------------- |
-| **[Профессия PHP-разработчик](https://webcademy.ru/phpcourse/)** | 2025 | WebAcademy  | [🔗](ссылка_на_сертификат) |
-| **[Frontend-разработчик PRO](https://webcademy.ru/jscourse/)**   | 2024 | WebAcademy  | [🔗](ссылка_на_сертификат) |
-| **[Flutter разработчик](https://skill-branch.ru/flutter)**       | 2021 | SkillBranch | [🔗](ссылка_на_сертификат) |
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,gulp,html,css,tailwind,flutter)](https://skillicons.dev)
 
-</div>
+### Связаться со мной
 
-## 📈 GitHub активность
+-   📫 Через [email](mailto:vmf.serge.kozlov@gmail.com) [Вконтакте](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white) [Telegram](https://t.me/vmfsergeikozlov)
+-   🌍 Мой сайт [портфолио](https://sergeikozlov.dev)
+
+<!-- ### Мои навыки
+
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
+
+### Моя статистика
 
 <!-- <div id="stat" align="center"> -->
 
@@ -149,8 +73,3 @@
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Kozlov-developer&theme=default" alt=""/> -->
 
 ## <!-- </div> -->
-
-<!-- 3D график активности
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=github-dark&area=true&hide_border=true&custom_title=Моя+активность+на+GitHub" alt="График активности" width="100%" />
-</div> -->
