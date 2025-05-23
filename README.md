@@ -48,8 +48,7 @@
 
 ### **Misbox (React Native)**
 
-[![Пользователи](https://img.shields.io/badge/2000%2B_пользователей-38BDF8?style=flat-square)]  
-[![Коммерческий](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)]  
+[![Пользователи](https://img.shields.io/badge/2000%2B_пользователей-38BDF8?style=flat-square)] [![Коммерческий](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)]  
 [App Store](https://apps.apple.com/ru/app/misbox/id1569062876) | [Google Play](https://play.google.com/store/apps/details?id=ru.tiomed.misbox)
 
 -   **Стек**: Expo React Native, Redux&Toolkit
