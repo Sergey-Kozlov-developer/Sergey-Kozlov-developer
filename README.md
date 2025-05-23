@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Привет, я Сергей Козлов</h1>
-  <h3>Fullstack-разработчик (Laravel/LiveWire)</h3>
+  <h3>Junior Fullstack-разработчик (Laravel/LiveWire)</h3>
 </div>
 
 ---
