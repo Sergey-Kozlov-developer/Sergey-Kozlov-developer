@@ -28,10 +28,61 @@
 
 ### 🚀 Ключевые проекты
 
--   **forum-pets.ru** (Laravel, 2025) - форум/блог домашних животных [стадия разработки](https://forum-pets.ru/)
+### 🚀 Ключевые проекты
+
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://forum-pets.ru/" target="_blank">
+        <img src="https://img.shields.io/badge/В_разработке-FF5722?style=for-the-badge" alt="Статус">
+      </a><br>
+      <strong>forum-pets.ru</strong> (Laravel, 2025)
+    </td>
+    <td>
+      Форум/блог для владельцев домашних животных<br>
+      <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind" alt="Технологии">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <strong>React SPA</strong> (2024-2025)
+    </td>
+    <td>
+      Коммерческий проект для клиента (NDA)<br>
+      <img src="https://skillicons.dev/icons?i=react,ts,redux,webpack" alt="Технологии">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/ru/app/misbox/id1569062876" target="_blank">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+      </a><br>
+      <strong>Misbox</strong> (2024)
+    </td>
+    <td>
+      Более 2000 активных пользователей<br>
+      <a href="https://apps.apple.com/ru/app/misbox/id1569062876" target="_blank">App Store</a> | 
+      <a href="https://play.google.com/store/apps/details?id=ru.tiomed.misbox" target="_blank">Google Play</a><br>
+      <img src="https://skillicons.dev/icons?i=react,js,firebase" alt="Технологии">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Flutter приложение</strong> (2021-2024)
+    </td>
+    <td>
+      Мобильное приложение с аналитикой здоровья<br>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Технологии">
+    </td>
+  </tr>
+</table>
+<!-- -   **forum-pets.ru** (Laravel, 2025) - форум/блог домашних животных [стадия разработки](https://forum-pets.ru/)
 -   **React SPA приложение** (2024-2025) - 1 коммерческий проект
 -   **Переписал приложение на ReactNative** (2024) - более 2000 активных пользователей [IOS](https://apps.apple.com/ru/app/misbox/id1569062876) и [Android](https://play.google.com/store/apps/details?id=ru.tiomed.misbox&pli=1)
--   **Мобильное приложение на Flutter** (2021-2024)
+-   **Мобильное приложение на Flutter** (2021-2024) -->
 
 ### 📈 Развитие
 
