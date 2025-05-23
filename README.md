@@ -121,14 +121,22 @@
 
 </div>
 
+## 📚 Обучение и курсы
+
+<!-- Стилизованная таблица курсов -->
+<div style="border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #38BDF822 0%, #ffffff00 100%); backdrop-filter: blur(5px); border: 1px solid #38BDF844; margin-bottom: 30px;">
+
+| Курс                                                             | Год  | Платформа   | Сертификат                 |
+| ---------------------------------------------------------------- | ---- | ----------- | -------------------------- |
+| **[Профессия PHP-разработчик](https://webcademy.ru/phpcourse/)** | 2025 | WebAcademy  | [🔗](ссылка_на_сертификат) |
+| **[Frontend-разработчик PRO](https://webcademy.ru/jscourse/)**   | 2024 | WebAcademy  | [🔗](ссылка_на_сертификат) |
+| **[Flutter разработчик](https://skill-branch.ru/flutter)**       | 2021 | SkillBranch | [🔗](ссылка_на_сертификат) |
+
+</div>
+
 ## 📈 GitHub активность
 
 <!-- 3D график активности -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=github-dark&area=true&hide_border=true&custom_title=Моя+активность+на+GitHub" alt="График активности" width="100%" />
-</div>
-
-<!-- Анимированные трофеи -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sergey-Kozlov-developer&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" alt="Трофеи GitHub" />
 </div>
