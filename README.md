@@ -42,11 +42,11 @@
 -   Форум для владельцев домашних животных
 -   [Открыть проект](https://forum-pets.ru/)
 
-### **Интернет магазин по продаже велосипедов** [![Статус](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)]
+### **Интернет магазин по продаже велосипедов** ![Статус](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
 
 -   **Стек**: React, TypeScript, Redux Toolkit
 
-### **Misbox (React Native)** [![Пользователи](https://img.shields.io/badge/2000+-пользователей-38BDF8?style=flat-square)] [![Коммерческий](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)]
+### **Misbox (React Native)** ![Пользователи](https://img.shields.io/badge/2000+-пользователей-38BDF8?style=flat-square) ![Коммерческий](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
 
 -   **Стек**: Expo React Native, Redux&Toolkit
 -   Каталог зубных имплантатов с функцией отправки заказа iOS/Android
