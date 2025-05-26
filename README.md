@@ -31,11 +31,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo_Go-61DAFB?style=flat-square&labelColor=000&logo=EXPO&logoColor=white" alt="React Native">
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo Go">
   <!-- <img src="https://img.shields.io/badge/Expo_Go-3275E7.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF" alt="Expo Go"> -->
   <!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> -->
 </p>
-
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ---
 
 ## 🚀 Мои проекты
