@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/redux&toolkit-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Redux&Toolkit-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux&Toolkit">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
 
