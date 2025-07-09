@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Привет, я Сергей Козлов</h1>
-  <h3>Junior PHP-разработчик (Laravel)</h3>
+  <h3>Junior PHP-разработчик</h3>
 </div>
 
 ---
@@ -41,9 +41,9 @@
 
 ## 🚀 Мои проекты
 
-### **Forum Pets** [![Статус](https://img.shields.io/badge/В_разработке-FF5722?style=flat-square)](https://forum-pets.ru/)
+### **Форум ХОСТОВ** [![Статус](https://img.shields.io/badge/В_разработке-FF5722?style=flat-square)](https://forum-pets.ru/)
 
--   **Стек**: Laravel, Livewire, MySQL
+-   **Стек**: Laravel, MySQL
 -   Форум для владельцев домашних животных
 -   [Открыть проект](https://forum-pets.ru/)
 
