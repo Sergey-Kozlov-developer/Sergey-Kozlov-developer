@@ -7,13 +7,6 @@
 
 ## 👨‍💻 Обо мне
 
-<div align="center">
-
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-</div>
 
 Frontend-разработчик с **1 годом коммерческого опыта** в создании SPA и мобильных приложений. Специализируюсь на:
 
@@ -89,11 +82,26 @@ Frontend-разработчик с **1 годом коммерческого о�
 
 -   **Стек**: React, TypeScript, Redux Toolkit
 
-### **Misbox (React Native)** ![Пользователи](https://img.shields.io/badge/2000+-пользователей-38BDF8?style=flat-square) ![Коммерческий](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
+[//]: # (### **Misbox &#40;React Native&#41;** ![Пользователи]&#40;https://img.shields.io/badge/2000+-пользователей-38BDF8?style=flat-square&#41; ![Коммерческий]&#40;https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square&#41;)
 
--   **Стек**: Expo React Native, Redux&Toolkit
--   Каталог зубных имплантатов с функцией отправки заказа iOS/Android
--   [App Store](https://apps.apple.com/ru/app/misbox/id1569062876) | [Google Play](https://play.google.com/store/apps/details?id=ru.tiomed.misbox)
+[//]: # ()
+[//]: # (-   **Стек**: Expo React Native, Redux&Toolkit)
+
+[//]: # (-   Каталог зубных имплантатов с функцией отправки заказа iOS/Android)
+
+[//]: # (-   [App Store]&#40;https://apps.apple.com/ru/app/misbox/id1569062876&#41; | [Google Play]&#40;https://play.google.com/store/apps/details?id=ru.tiomed.misbox&#41;)
+
+### **Misbox (React Native)**
+![Продолжительность](https://img.shields.io/badge/6_месяцев-2023-blue)  
+![Пользователи](https://img.shields.io/badge/2000+_врачей-38BDF8)
+![Коммерческий](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
+
+**Роль**: Full-cycle разработчик (от верстки до публикации)  
+**Стек**: React Native, Expo, Redux Toolkit  
+**Достижения**:
+- Сократил время загрузки на 15% через оптимизацию изображений
+- Реализовал корзину для оформления заказа
+- [App Store](https://apps.apple.com/ru/app/misbox/id1569062876) | [Google Play](https://play.google.com/store/apps/details?id=ru.tiomed.misbox)
 
 ---
 
