@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14de0d1e-6e3e-4251-b9da-12702a9e64fe" name="Changes" comment="" />
+    <list default="true" id="14de0d1e-6e3e-4251-b9da-12702a9e64fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,16 +19,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sergey-Kozlov-developer"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sergey-Kozlov-developer&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Sergey-Kozlov-developer/Sergey-Kozlov-developer.git",
-    "accountId": "2c3b6f74-5386-4a32-b5a4-f7b286c80331"
+    "accountId": "314bb1cb-0d20-45e7-b256-e25c01ee104d"
   }
 }]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\User\.config\herd-lite\bin\php.exe" />
@@ -44,7 +47,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/VSProject/Sergey-Kozlov-developer",
+    "last_opened_file_path": "/Users/sergey/VSprojects/Sergey-Kozlov-developer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,7 +59,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
       </set>
     </attachedChunks>
   </component>
@@ -70,6 +73,7 @@
       <updated>1747993762466</updated>
       <workItem from="1747993763784" duration="62000" />
       <workItem from="1755090737966" duration="2671000" />
+      <workItem from="1760259116706" duration="590000" />
     </task>
     <servers />
   </component>
