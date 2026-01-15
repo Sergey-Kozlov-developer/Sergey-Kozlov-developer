@@ -116,22 +116,43 @@ Frontend-разработчик, специализируюсь на:
 
 ---
 
-## 📈 Статистика GitHub
+<!-- ## 📈 Статистика GitHub -->
+
+## 📊 Статистика разработки
 
 <div align="center">
-  <div style="margin-bottom: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=Sergey-Kozlov-developer&style=for-the-badge&color=38BDF8&label=Profile+Views" alt="Просмотры профиля" />
+
+### 🏆 Платформы для разработчиков
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
+    
+    <!-- GitHub Статистика -->
+    <div>
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
+      <br/>
+      <sub><b>GitHub Статистика</b></sub>
+    </div>
+    
+    <!-- LeetCode Статистика -->
+    <div>
+      <img height="165em" src="https://leetcode-stats-six.vercel.app/api?username=Sergey-Kozlov-developer&theme=dark" alt="LeetCode"/>
+      <br/>
+      <sub><b>LeetCode Прогресс</b></sub>
+    </div>
+    
+    <!-- Топ языков -->
+    <div>
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+      <br/>
+      <sub><b>Топ языков</b></sub>
+    </div>
+    
   </div>
   
-  <!-- Основная статистика -->
-  <div>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-  </div>
+  ### 📈 Активность GitHub
   
-  <!-- График активности за полгода -->
-  <h3 style="margin-top: 30px; margin-bottom: 10px; color: #58A6FF;">📈 Активность (6 месяцев)</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=react-dark&height=320&hide_border=true&days=180&area=true&line=58A6FF&point=1F6FEB&bg_color=0D1117&title_color=FFFFFF" alt="GitHub Activity Graph - 180 days"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=react-dark&height=350&hide_border=true&days=180&area=true&line=58A6FF&point=1F6FEB&bg_color=0D1117&title_color=FFFFFF" alt="Активность"/>
+  
 </div>
 
 <!-- <div align="center" style="margin-bottom: 30px;">
