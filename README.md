@@ -124,7 +124,7 @@ Frontend-разработчик, специализируюсь на:
 
 ### LeetCode Статистика
 
-<img src="https://leetcard.jacoblin.cool/Sergey-Kozlov-developer?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" width="400"/>
+<img src="https://leetcard.jacoblin.cool/twenty1986?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" width="400"/>
 
 ### Статистика за 30 дней
 
