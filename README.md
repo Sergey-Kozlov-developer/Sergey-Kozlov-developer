@@ -123,7 +123,18 @@ Frontend-разработчик, специализируюсь на:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=default&hide_border=true"/>
 </div>
 
+<!-- График активности -->
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=github&height=300&hide_border=true)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india)
+
+<!-- <div align="center" style="margin-bottom: 30px;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=default&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=default&hide_border=true"/>
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india) -->
 
 ---
 
