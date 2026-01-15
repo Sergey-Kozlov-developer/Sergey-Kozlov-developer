@@ -118,14 +118,30 @@ Frontend-разработчик, специализируюсь на:
 
 ## 📈 Статистика GitHub
 
-<div align="center" style="margin-bottom: 30px;">
+<div align="center">
+  <div style="margin-bottom: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=Sergey-Kozlov-developer&style=for-the-badge&color=38BDF8&label=Profile+Views" alt="Просмотры профиля" />
+  </div>
+  
+  <!-- Основная статистика -->
+  <div>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+  </div>
+  
+  <!-- График активности за полгода -->
+  <h3 style="margin-top: 30px; margin-bottom: 10px; color: #58A6FF;">📈 Активность (6 месяцев)</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=react-dark&height=320&hide_border=true&days=180&area=true&line=58A6FF&point=1F6FEB&bg_color=0D1117&title_color=FFFFFF" alt="GitHub Activity Graph - 180 days"/>
+</div>
+
+<!-- <div align="center" style="margin-bottom: 30px;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=default&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=default&hide_border=true"/>
-</div>
+</div> -->
 
 <!-- График активности -->
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=react-dark&height=300&hide_border=true&days=180&area=true)
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=react-dark&height=300&hide_border=true&days=180&area=true) -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india) -->
 
