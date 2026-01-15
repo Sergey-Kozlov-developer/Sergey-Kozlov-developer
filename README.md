@@ -3,6 +3,10 @@
   <h3>Frontend-разработчик</h3>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sergey-Kozlov-developer&style=flat-square&color=blue" alt="Просмотры профиля" />
+</div>
+
 ---
 
 ## 👨‍💻 Обо мне
