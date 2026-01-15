@@ -124,36 +124,20 @@ Frontend-разработчик, специализируюсь на:
 
 ### LeetCode Статистика
 
-<div align="center" style="background: #0D1117; padding: 25px; border-radius: 12px; border: 1px solid #30363d; margin: 20px 0;">
-  <h3 style="color: #58A6FF; margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a1.14 1.14 0 0 0 0 1.626l5.5 5.4a1.14 1.14 0 0 0 1.626 0l5.5-5.4a1.14 1.14 0 0 0 0-1.626l-3.854-4.126L14.445.438A1.374 1.374 0 0 0 13.483 0z" fill="#FFA116"/>
-      <path d="M5.123 16.404l4.758 4.67a1.14 1.14 0 0 0 1.626 0l4.758-4.67a1.14 1.14 0 0 0 0-1.626l-4.758-4.67a1.14 1.14 0 0 0-1.626 0l-4.758 4.67a1.14 1.14 0 0 0 0 1.626z" fill="#B3B3B3"/>
-      <path d="M18.877 16.404l-4.758 4.67a1.14 1.14 0 0 0-1.626 0l-4.758-4.67a1.14 1.14 0 0 0 0-1.626l4.758-4.67a1.14 1.14 0 0 0 1.626 0l4.758 4.67a1.14 1.14 0 0 0 0 1.626z" fill="#5CB85C"/>
-    </svg>
-    LeetCode Прогресс
-  </h3>
-  
-  <img src="https://leetcard.jacoblin.cool/twenty1986?theme=dark&font=Inter&ext=contest&border=2&border_color=58A6FF&border_radius=8&width=500&height=250" alt="LeetCode Stats"/>
-  
-  <div style="margin-top: 15px; color: #8B949E; font-size: 14px;">
-    <span>🔹 Алгоритмы • 🔹 Структуры данных • 🔹 Решение задач</span>
-  </div>
-</div>
-<!-- <div align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 30px; border-radius: 16px; border: 1px solid rgba(88, 166, 255, 0.2); margin: 25px 0;">
+<div align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 30px; border-radius: 16px; border: 1px solid rgba(88, 166, 255, 0.2); margin: 25px 0;">
   
   <div style="display: inline-flex; align-items: center; gap: 10px; background: rgba(88, 166, 255, 0.1); padding: 8px 20px; border-radius: 50px; margin-bottom: 20px;">
     <span style="color: #58A6FF; font-weight: 600;">LeetCode</span>
     <span style="background: #58A6FF; color: #0D1117; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">PRO</span>
   </div>
   
-  <img src="https://leetcard.jacoblin.cool/twenty1986?theme=nord&font=SF+Pro+Display&ext=contest&border=0&border_radius=8&width=480&height=240" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/twenty1986?theme=nord&font=SF+Pro+Display&ext=contest&border=0&border_radius=8&width=480&height=240" alt="LeetCode Прогресс"/>
   
-  <div style="margin-top: 20px; color: #8B949E; font-size: 14px;">
-    Активное решение алгоритмических задач
+  <div style="margin-top: 15px; color: #8B949E; font-size: 14px;">
+    <span>🔹 Алгоритмы • 🔹 Структуры данных • 🔹 Решение задач</span>
   </div>
   
-</div> -->
+</div>
 
 ### Статистика за 30 дней
 
