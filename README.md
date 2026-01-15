@@ -124,7 +124,21 @@ Frontend-разработчик, специализируюсь на:
 
 ### LeetCode Статистика
 
-<img src="https://leetcard.jacoblin.cool/twenty1986?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" width="400"/>
+<!-- <img src="https://leetcard.jacoblin.cool/twenty1986?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" width="400"/> -->
+<div align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 30px; border-radius: 16px; border: 1px solid rgba(88, 166, 255, 0.2); margin: 25px 0;">
+  
+  <div style="display: inline-flex; align-items: center; gap: 10px; background: rgba(88, 166, 255, 0.1); padding: 8px 20px; border-radius: 50px; margin-bottom: 20px;">
+    <span style="color: #58A6FF; font-weight: 600;">LeetCode</span>
+    <span style="background: #58A6FF; color: #0D1117; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">PRO</span>
+  </div>
+  
+  <img src="https://leetcard.jacoblin.cool/twenty1986?theme=nord&font=SF+Pro+Display&ext=contest&border=0&border_radius=8&width=480&height=240" alt="LeetCode Stats"/>
+  
+  <div style="margin-top: 20px; color: #8B949E; font-size: 14px;">
+    Активное решение алгоритмических задач
+  </div>
+  
+</div>
 
 ### Статистика за 30 дней
 
