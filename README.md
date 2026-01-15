@@ -2,7 +2,6 @@
   <h1>👋 Привет, я Сергей Козлов</h1>
   <h3>Frontend-разработчик</h3>
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sergey-Kozlov-developer&style=flat-square&color=blue" alt="Просмотры профиля" />
 </div>
@@ -118,57 +117,12 @@ Frontend-разработчик, специализируюсь на:
 
 ## 📈 Статистика GitHub
 
-<div align="center">
-  
-  <!-- Верхняя строка: GitHub Stats -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Sergey-Kozlov-developer&style=flat-square&color=blue&label=Profile+Views" alt="Просмотры"/>
-  </div>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    
-    <!-- GitHub Stats -->
-  <div style="text-align: center;">
-      <h3>GitHub</h3>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=default&hide_border=true"/>
-  </div>
-    
-    <!-- LeetCode Stats -->
-  <div style="text-align: center;">
-      <h3>LeetCode</h3>
-      <img height="180em" src="https://leetcode-stats-six.vercel.app/api?username=Sergey-Kozlov-developer&theme=dark" alt="LeetCode"/>
-  </div>
-    
-    <!-- Top Languages -->
-  <div style="text-align: center;">
-      <h3>Top Languages</h3>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=default&hide_border=true"/>
-  </div>
-    
-  </div>
-  
-  <!-- График активности -->
-  <h3 style="margin: 20px 0;">Активность за 6 месяцев</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=github&height=300&hide_border=true&days=180"/>
-</div>
-
-<!-- <div align="center" style="margin-bottom: 30px;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=default&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=default&hide_border=true"/>
-</div> -->
-
-<!-- График активности -->
-
-<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=Sergey-Kozlov-developer&theme=react-dark&height=300&hide_border=true&days=180&area=true) -->
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india) -->
-
-<!-- <div align="center" style="margin-bottom: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Kozlov-developer&show_icons=true&theme=default&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Kozlov-developer&layout=compact&theme=default&hide_border=true"/>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Kozlov-developer&theme=flag_india)
 
 ---
 
