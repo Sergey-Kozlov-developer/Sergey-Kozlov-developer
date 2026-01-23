@@ -2,9 +2,6 @@
   <h1>👋 Привет, я Сергей Козлов</h1>
   <h3>Frontend-разработчик</h3>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sergey-Kozlov-developer&style=flat-square&color=blue" alt="Просмотры профиля" />
-</div>
 
 ---
 
@@ -30,34 +27,34 @@ Frontend-разработчик с коммерческим опытом раз�
 
 Приложение MISbox (каталог стоматологической продукции)
 
--   Разработал и развивал веб-приложение — внутренний и клиентский интерфейс для работы с каталогом стоматологической продукции и заказами
--   увеличил рост онлайн-заказов на 30%
-    Продукт стабильно используется 2000+ пользователями
--   [App Store](https://apps.apple.com/ru/app/misbox/id1569062876) | [Google Play](https://play.google.com/store/apps/details?id=ru.tiomed.misbox)
+- Разработал и развивал веб-приложение — внутренний и клиентский интерфейс для работы с каталогом стоматологической продукции и заказами
+- увеличил рост онлайн-заказов на 30%
+  Продукт стабильно используется 2000+ пользователями
+- [App Store](https://apps.apple.com/ru/app/misbox/id1569062876) | [Google Play](https://play.google.com/store/apps/details?id=ru.tiomed.misbox)
 
 ### **Интернет-магазин велосипедов**
 
 ![Продолжительность](https://img.shields.io/badge/2_месяца-2024-blue)
 ![Статус](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
 
--   **Команда**: 4 разработчика
--   **Стек**: React, TypeScript, Tailwind CSS
--   **Достижения**:
-    -   Реализовал 15+ переиспользуемых UI-компонентов
-    -   Ускорил процесс разработки за счет системы Storybook
-    -   Адаптировал интерфейс под мобильные устройства
-    -   [сайт](https://veloman.by/)
+- **Команда**: 4 разработчика
+- **Стек**: React, TypeScript, Tailwind CSS
+- **Достижения**:
+  - Реализовал 15+ переиспользуемых UI-компонентов
+  - Ускорил процесс разработки за счет системы Storybook
+  - Адаптировал интерфейс под мобильные устройства
+  - [сайт](https://veloman.by/)
 
 ---
 
 **Остальные проекты**
 
--   📚 Список дел. Стек: **React, SCSS, БЭМ** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/todo-react) на [сайт](https://sergey-kozlov-developer-todo-react-a9f5.twc1.net/)
--   🗂 Карточки товаров с фильтрацией и поиском. Стек: **Gulp, Pug, SCSS, БЭМ, JS** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/test-task) на [сайт](https://sergey-kozlov-developer.github.io/test-task/)
--   😊 Rick and Morty. Стек: **React, redux&toolkit, scss** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/rickandmorty) на [сайт](https://sergey-kozlov-developer-rickandmorty-8a01.twc1.net/)
--   🧙‍♀️ Персонажи из Гарри Поттера!. Стек: **React, redux&toolkit, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/potter-two) на [сайт](https://sergey-kozlov-developer-potter-two-fc78.twc1.net/characters)
--   🏊‍♂️ Магазин гидроциклов. Стек: **React, redux&toolkit, TypeScript, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/jetsky)
--   📰 Агрегатор новостей. Стек: **React, redux&toolkit, TypeScript, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/news-portal)
+- 📚 Список дел. Стек: **React, SCSS, БЭМ** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/todo-react) на [сайт](https://sergey-kozlov-developer-todo-react-a9f5.twc1.net/)
+- 🗂 Карточки товаров с фильтрацией и поиском. Стек: **Gulp, Pug, SCSS, БЭМ, JS** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/test-task) на [сайт](https://sergey-kozlov-developer.github.io/test-task/)
+- 😊 Rick and Morty. Стек: **React, redux&toolkit, scss** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/rickandmorty) на [сайт](https://sergey-kozlov-developer-rickandmorty-8a01.twc1.net/)
+- 🧙‍♀️ Персонажи из Гарри Поттера!. Стек: **React, redux&toolkit, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/potter-two) на [сайт](https://sergey-kozlov-developer-potter-two-fc78.twc1.net/characters)
+- 🏊‍♂️ Магазин гидроциклов. Стек: **React, redux&toolkit, TypeScript, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/jetsky)
+- 📰 Агрегатор новостей. Стек: **React, redux&toolkit, TypeScript, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/news-portal)
 
 ---
 
