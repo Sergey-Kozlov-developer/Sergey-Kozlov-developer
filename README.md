@@ -49,6 +49,7 @@ Frontend-разработчик с коммерческим опытом раз�
 
 **Остальные проекты**
 
+- 🛍️ Интернет магазин одежды. Стек: **React, FSD, Zustand, TypeScript, tailwindcss, shadcn-ui** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/fshop) на [сайт](https://sergey-kozlov-developer-fshop-931d.twc1.net/)
 - 📚 Список дел. Стек: **React, SCSS, БЭМ** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/todo-react) на [сайт](https://sergey-kozlov-developer-todo-react-a9f5.twc1.net/)
 - 🗂 Карточки товаров с фильтрацией и поиском. Стек: **Gulp, Pug, SCSS, БЭМ, JS** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/test-task) на [сайт](https://sergey-kozlov-developer.github.io/test-task/)
 - 😊 Rick and Morty. Стек: **React, redux&toolkit, scss** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/rickandmorty) на [сайт](https://sergey-kozlov-developer-rickandmorty-8a01.twc1.net/)
