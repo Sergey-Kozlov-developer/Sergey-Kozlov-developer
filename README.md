@@ -17,6 +17,7 @@ Frontend-разработчик с фокусом на React и TypeScript. Нр
 ## 🚀 Ключевые проекты
 
 ### **Misbox web-приложение**
+
 ![Запущен](https://img.shields.io/badge/Август-2026-blue)
 ![Статус](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
 
@@ -25,14 +26,15 @@ Frontend-разработчик с фокусом на React и TypeScript. Нр
 - **Ссылка**: [misbox](https://misbox.ru/)
 - **Достижения**:
 
- - Перенёс весь интерфейс мобильного приложения в web‑версию на Next.js: реализовал адаптивную вёрстку на Tailwind CSS и компоненты из shadcn/ui, сохранив единообразие UX.
- - Внедрил архитектуру по методологии **FSD** — что позволило изолировать бизнес‑логику, упростить рефакторинг и ускорить добавление новых фич.
- - Внедрил Zustand для управления состоянием в проекте, что упростило масштабирование функционала и улучшило предсказуемость поведения UI.
- - Интегрировал RTK Query в проект для работы с серверными данными: настроил кэширование, автоматическую инвалидацию и обработку состояний загр
+- Перенёс весь интерфейс мобильного приложения в web‑версию на Next.js: реализовал адаптивную вёрстку на Tailwind CSS и компоненты из shadcn/ui, сохранив единообразие UX.
+- Внедрил архитектуру по методологии **FSD** — что позволило изолировать бизнес‑логику, упростить рефакторинг и ускорить добавление новых фич.
+- Внедрил Zustand для управления состоянием в проекте, что упростило масштабирование функционала и улучшило предсказуемость поведения UI.
+- Интегрировал RTK Query в проект для работы с серверными данными: настроил кэширование, автоматическую инвалидацию и обработку состояний загр
 
 ### **Misbox (каталог стоматологической продукции)**
 
-[//]: # (![Продолжительность]&#40;https://img.shields.io/badge/2_года-2025-blue&#41;)
+[//]: # "![Продолжительность](https://img.shields.io/badge/2_года-2025-blue)"
+
 ![Пользователи](https://img.shields.io/badge/2000+_врачей-38BDF8)
 ![Коммерческий](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
 
@@ -42,22 +44,23 @@ Frontend-разработчик с фокусом на React и TypeScript. Нр
 
 Приложение MISbox (каталог стоматологической продукции)
 
- - Разработал мобильное приложение каталога стоматологической продукции (MISbox) с
+- Разработал мобильное приложение каталога стоматологической продукции (MISbox) с
   возможностью оформления заказов, что позволило перевести часть клиентов из
   офлайн-каналов в цифровой формат.
- - Реализовал основные пользовательские сценарии: каталог товаров, поиск, карточки
+- Реализовал основные пользовательские сценарии: каталог товаров, поиск, карточки
   продукции и оформление заказов, что повысило удобство взаимодействия и увеличило
   количество онлайн-заказов примерно на 25-30%.
- - Участвовал в публикации приложения в App Store и Google Play, обеспечив стабильную
+- Участвовал в публикации приложения в App Store и Google Play, обеспечив стабильную
   работу и доступ для более чем 2000 пользователей.
- - Настроил централизованное управление состоянием через Redux Toolkit, что упростило
+- Настроил централизованное управление состоянием через Redux Toolkit, что упростило
   поддержку приложения и ускорило добавление новых функций.
 
 - [App Store](https://apps.apple.com/ru/app/misbox/id1569062876) | [Google Play](https://play.google.com/store/apps/details?id=ru.tiomed.misbox)
 
 ### **Интернет-магазин велосипедов**
 
-[//]: # (![Продолжительность]&#40;https://img.shields.io/badge/2_месяца-2024-blue&#41;)
+[//]: # "![Продолжительность](https://img.shields.io/badge/2_месяца-2024-blue)"
+
 ![Статус](https://img.shields.io/badge/Коммерческий-4CAF50?style=flat-square)
 
 - **Команда**: 4 разработчика
@@ -72,15 +75,12 @@ Frontend-разработчик с фокусом на React и TypeScript. Нр
 
 **Остальные проекты**
 
-- 🧙‍♀️ Обновлённый Harry Potter. Стек: **React, FSD, Redux Toolkit, RTK Query, TypeScript, tailwindcss, shadcn-ui** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/harry-potter) на [сайт](https://sergey-kozlov-developer-harry-potter-551d.twc1.net/)
+- 🧙‍♀️ Harry Potter. Стек: **React, FSD, Redux Toolkit, RTK Query, TypeScript, tailwindcss, shadcn-ui** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/harry-potter) на [сайт](https://sergey-kozlov-developer-harry-potter-551d.twc1.net/)
 - 👽 Обновлённый Rick and Morty API. Стек: **React, FSD, Zustand, RTK Query, TypeScript, tailwindcss, shadcn-ui** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/frickandmorty) на [сайт](https://sergey-kozlov-developer-frickandmorty-8138.twc1.net/)
-  <!-- - 🛍️ Интернет магазин одежды. Стек: **React, FSD, Zustand, TypeScript, tailwindcss, shadcn-ui** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/fshop) на [сайт](https://sergey-kozlov-developer-fshop-931d.twc1.net/) -->
 - 📚 Список дел. Стек: **React, SCSS, БЭМ** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/todo-react) на [сайт](https://sergey-kozlov-developer-todo-react-a9f5.twc1.net/)
 - 🗂 Карточки товаров с фильтрацией и поиском. Стек: **Gulp, Pug, SCSS, БЭМ, JS** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/test-task) на [сайт](https://sergey-kozlov-developer.github.io/test-task/)
 - 😊 Rick and Morty. Стек: **React, redux&toolkit, scss** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/rickandmorty) на [сайт](https://sergey-kozlov-developer-rickandmorty-8a01.twc1.net/)
-- 🧙‍♀️ Персонажи из Гарри Поттера!. Стек: **React, redux&toolkit, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/potter-two) на [сайт](https://sergey-kozlov-developer-potter-two-fc78.twc1.net/characters)
 - 🏊‍♂️ Магазин гидроциклов. Стек: **React, redux&toolkit, TypeScript, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/jetsky)
-- 📰 Агрегатор новостей. Стек: **React, redux&toolkit, TypeScript, tailwind** Ссылка на [код](https://github.com/Sergey-Kozlov-developer/news-portal)
 
 ---
 
