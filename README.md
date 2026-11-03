@@ -1,1 +1,1 @@
-[![My GitFut card](https://gitfut.com/Sergey-Kozlov-developer.png)](https://gitfut.com/Sergey-Kozlov-developer)
+[![My GitFut card](https://gitfut.com/Sergey-Kozlov-developer.png)](https://gitfut.com/Sergey-Kozlov-developer?country=ru)
